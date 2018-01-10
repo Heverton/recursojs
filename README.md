@@ -1,6 +1,11 @@
 # recursojs
 Recursos de JavaScript
 
+    Procedimentos para uso:
+        npm install
+            jQuery v3.2.1
+            jQuery Mask Plugin v1.5.4
+
     Exemplo:
         <head>
         <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
