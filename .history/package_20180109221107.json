@@ -1,0 +1,10 @@
+{
+  "name": "recursojs",
+  "version": "1.0.0",
+  "description": "Recuros de Js",
+  "author": "Heverton da Silva Cruz <heverton7@gmail.com>",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "lodash": "^4.17.4"
+  }
+}

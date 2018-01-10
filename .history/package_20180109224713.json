@@ -1,0 +1,10 @@
+{
+  "name": "recursojs",
+  "version": "1.0.0",
+  "description": "Recuros de Js",
+  "author": "Heverton da Silva Cruz <heverton7@gmail.com>",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery.maskedinput": "1.4.1"
+  }
+}
