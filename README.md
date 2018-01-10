@@ -1,4 +1,4 @@
-# recursojs
+# RecursoJS
 Recursos de JavaScript
 
     Procedimentos para uso:
