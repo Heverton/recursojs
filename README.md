@@ -1,5 +1,5 @@
 # RecursoJS
-Recursos de JavaScript
+Framework de recursos para JavaScript. 
 
     Procedimentos para uso:
         npm install
