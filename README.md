@@ -1,6 +1,9 @@
 # RecursoJS
 Framework de recursos para JavaScript. 
 
+    Obs.: Esse exemplo é uma máscara dinâmica de telefone e celular no mesmo campo. 
+
+
     Procedimentos para uso:
         npm install
             jQuery v3.2.1
