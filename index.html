@@ -1,12 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery.mask.min.js"></script>
-<script type="text/javascript" src="js/recursojs.min.js"></script>
+	<!-- Exemplo JQuery -->
+	<script type="text/javascript" src="js/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery/jquery.mask.min.js"></script>
+	<script type="text/javascript" src="js/recursojs.min.js"></script>
+	
+	<!-- Exemplo AngularJS -->
+	<script type="text/javascript" src="js/angulajs/angular.min.js"></script>
+	<script type="text/javascript" src="js/angulajs/recursojs.control.js"></script>
+
 </head>
-<body>
-	<label>Exemplo:</label>
-	<input type="text" name="telefone" id="telefone" class="telefonecelular" />
+<body >
+	<p>
+		<label>Exemplo com JQuery:</label>
+		<div>
+			<input id="telcel1" name="telcel1"  type="text" class="telefonecelular" />
+		</div>
+	</p>
+
+	<p>		
+		<label>Exemplo com AngulaJS: </label>
+		<div ng-app="main-app" ng-controller="controller">
+			<input id="telcel2" name="telcel2" type="text" my-mask class="telefonecelularAngular" />
+		</div>
+	</p>
 </body>
 </html>
