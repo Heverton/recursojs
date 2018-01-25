@@ -1,4 +1,4 @@
-/*! HSC v1.0.0 | (c) 2017 Heverton da Silva Cruz */
+/*! HSC v1.0.0 | (c) 2017 Heverton da Silva Cruz | (c) JS Foundation and other contributors | jquery.org/license */
 $(document).ready(function() {
     $(".telefonecelular").keyup(function(){
 
