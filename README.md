@@ -1,5 +1,5 @@
 # RecursoJS
-Framework de recursos para JavaScript. 
+Framework de recursos para JavaScript. https://www.npmjs.com/package/recursojs
 
     Obs.: Esse exemplo é uma máscara dinâmica de telefone e celular no mesmo campo. 
 
