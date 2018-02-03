@@ -2,8 +2,30 @@
   "name": "recursojs",
   "version": "1.0.0",
   "description": "Recuros de Js",
-  "author": "Heverton da Silva Cruz <heverton7@gmail.com>",
-  "dependencies": {
+  "author": {
+    "name": "Heverton Cruz",
+    "email": "heverton7@gmail.com",
+    "homepage": "http://www.github.com/heverton"
+  },
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "recursojs",
+    "recursojs",
+    "rjs"
+  ],
+  "tags": [
+    "recursojs",
+    "rjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heverton/recursojs"
+  },
+ "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+   "dependencies": {
     "jquery": "^3.2.1",
     "angular": "^1.5.11"
   }
